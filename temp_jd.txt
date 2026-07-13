@@ -1,0 +1,20 @@
+Machine Learning Engineer — Nova AI Labs
+
+We are looking for a Machine Learning Engineer to join our applied AI team, building and deploying production ML systems.
+
+Requirements:
+- 3+ years of experience building and deploying machine learning models in production
+- Strong proficiency in Python and common ML frameworks (PyTorch or TensorFlow)
+- Experience with NLP and working with large language models
+- Solid understanding of model evaluation, including precision/recall tradeoffs and A/B testing
+- Experience with data pipelines and feature engineering at scale
+- Familiarity with cloud ML infrastructure (AWS SageMaker, GCP Vertex AI, or similar)
+- Strong communication skills and ability to work cross-functionally with product teams
+- Bachelor's or Master's degree in Computer Science, Machine Learning, or a related field
+
+Preferred:
+- Experience fine-tuning or prompt-engineering with LLMs (GPT, Claude, Gemini, or open-weight models)
+- Familiarity with vector databases and retrieval-augmented generation (RAG)
+- Experience with MLOps tools (MLflow, Kubeflow, or similar)
+- Published research or open-source contributions in ML/NLP
+- Experience mentoring junior engineers
