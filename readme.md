@@ -1,4 +1,4 @@
-# 📄 Resume vs JD Analyzer
+# 📄 Ai-resume-jd-matcher
 
 A Streamlit app that compares your resume against a job description, scores the match, and generates an ATS-friendly tailored version of your resume — powered by Google's Gemini API.
 
@@ -22,8 +22,8 @@ A Streamlit app that compares your resume against a job description, scores the 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/resume-jd-analyzer.git
-   cd resume-jd-analyzer
+   git clone https://github.com/aasthamahajan19/ai-resume-jd-matcher.git
+   cd ai-resume-jd-matcher
    ```
 
 2. **Create a virtual environment (recommended)**
